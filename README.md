@@ -18,14 +18,21 @@ Supported arguments:
 /clean - Launches clean-up methods (or use right click on apply button in the program)  
 /cmd - Launches cmd with SYSTEM\TrustedInstaller rights  
 
-Example: "C:\Folder\yuri's editor.exe" /clean
+Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
-# Version 1.4.1.1 (A small update)  
+# Version 1.4.1.2
+- Added edge support in Windows 11  
+- Added animation of buttons (Close, collapse) at startup  
+- Now, auto-update does not hang when checking  
+- Fixed "Click on notification" events  
+- Added automatic replacement of arguments with a dash, instead of slash  
+- Some code improvements  
+
+# Version 1.4.1.1
 - Now, you can't uses russian symbols in the "Hex" textbox  
-- if you written <6 symbols in "Hex" textbox, you doesn't see exception, but if you enter the wrong #color, you will be notified about it  
-- Fixed exception, when you closed program and see "Couldn't find part of the path...". It is cleaning up check update methods (please, don't close the program until notification about "An update available" doesn't closed)   
+- if you written <6 symbols in "Hex" textbox, you doesn't see exception, but if you enter the wrong #HexColor, you will be notified about it  
+- Fixed exception, when you closed program and see "Couldn't find part of the path...". It was cleaning up the update checking methods
 
 # Version 1.4.1
-
-- Added auto checks updates feature (the third checkbox in Settings)
+- Added auto-update feature (the third checkbox in Settings)  
 - Updated tab key movement
