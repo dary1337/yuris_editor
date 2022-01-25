@@ -20,13 +20,18 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.1.3
+- Fixed exception: "The process cannot access the file...", when you tried to check for updates after running the program with the check box "Check for updates at startup"  
+- Fixed closing program, when you try check for updates without internet connection  
+- Now, you won't see DOS windows anymore
+
 # Version 1.4.1.2
 - Added edge support in Windows 11  
 - Added animation of buttons (Close, collapse) at startup  
 - Now, auto-update does not hang when checking  
 - Fixed "Click on notification" events  
 - Added automatic replacement of arguments with a dash, instead of slash  
-- Some code improvements  
+- Some code improvements
 
 # Version 1.4.1.1
 - Now, you can't uses russian symbols in the "Hex" textbox  
