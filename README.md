@@ -25,7 +25,8 @@ Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 - Fixed missing shadow for Windows 11  
 - Fixed, the program did not read the UAC tweak  
 - Added argument: /fwd (Be careful, this key erase your Windows Defender without recovery!)  
-- Added Import and Export buttons bottom right
+- Added Import and Export buttons bottom right  
+- Added event by clicking the middle and right mouse button on Additional settings  
 
 # Version 1.4.1.3
 - Fixed exception: "The process cannot access the file...", when you tried to check for updates after running the program with the check box "Check for updates at startup"  
