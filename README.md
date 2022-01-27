@@ -17,8 +17,15 @@ Context Menu Editor & Tweaker! Click on "Editor" or "Tweaker" label to change th
 Supported arguments:  
 /clean - Launches clean-up methods (or use right click on apply button in the program)  
 /cmd - Launches cmd with SYSTEM\TrustedInstaller rights  
+/fwd - Kills Windows Defender without Regret
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
+
+# Version 1.4.2.0
+- Fixed missing shadow for Windows 11  
+- Fixed, the program did not read the UAC tweak  
+- Added argument: /fwd (Be careful, this key erase your Windows Defender without recovery!)  
+- Added Import and Export buttons bottom right
 
 # Version 1.4.1.3
 - Fixed exception: "The process cannot access the file...", when you tried to check for updates after running the program with the check box "Check for updates at startup"  
