@@ -21,9 +21,12 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.2.2
+- Now the B key is responsible for Exporting  
+- Now you can't run 2 Exports at once
+
 # Version 1.4.2.1
 - Export of ALL registry branches has been cut out  
-- Removed events on the B key
 
 # Version 1.4.2.0
 - Fixed missing shadow for Windows 11  
