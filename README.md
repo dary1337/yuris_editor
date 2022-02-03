@@ -21,6 +21,11 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.2.3
+- The program no longer freezes on cleaning  
+- Added an indicator that the program clears  
+- Now you can't run more than 1 cleanup at once
+
 # Version 1.4.2.2
 - Now the B key is responsible for Exporting  
 - Now you can't run 2 Exports at once
@@ -28,7 +33,7 @@ Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 # Version 1.4.2.1
 - Export of ALL registry branches has been cut out  
 
-# Version 1.4.2.0
+# Version 1.4.2
 - Fixed missing shadow for Windows 11  
 - Fixed, the program did not read the UAC tweak  
 - Added argument: /fwd (Be careful, this key erase your Windows Defender without recovery!)  
@@ -46,7 +51,6 @@ Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 - Now, auto-update does not hang when checking  
 - Fixed "Click on notification" events  
 - Added automatic replacement of arguments with a dash, instead of slash  
-- Some code improvements
 
 # Version 1.4.1.1
 - Now, you can't uses russian symbols in the "Hex" textbox  
