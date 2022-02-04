@@ -8,7 +8,7 @@ HotKeys:
 H - Opens supported hotkeys  
 R - Restarts Form, withnot restart program  
 S - Search (ctrl + S - closes search, if the field is empty)  
-B - Starts Exporting your registry branches (Context Menu)
+B - Starts Exporting your registry branches (Context Menu)  
 T - Changes the app theme (Light or Dark)  
 D - Developer mode. You can remove any SubKey with SYSTEM\TrustedInstaller rights. All warnings will be removed.  
 
