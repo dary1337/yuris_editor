@@ -21,6 +21,15 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.2.4
+- Added branch: Directory\Background  
+- Now the Enter button is responsible only for the Search (S)  
+- Now you can't apply tweaks or start a new cleaning until the cleaning is finished  
+- Fixed: Missing icon when adding an element  
+- Now you can roll back the selected icon without restarting the program  
+- The function of changing an existing branch HAS BEEN added.  
+P.S. NOTE THAT IF YOU RENAME A BRANCH, ONLY THE RENAMED BRANCH AND THE KEYS NESTED IN IT WILL BE TRANSFERRED, THE REST WILL BE DELETED!!!
+
 # Version 1.4.2.3
 - The program no longer freezes on cleaning  
 - Added an indicator that the program clears  
