@@ -21,6 +21,9 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.3
+- Fixed a typo in the help (H)
+
 # Version 1.4.2.5
 - Removed the bold stripes on the buttons, when pressed  
 
