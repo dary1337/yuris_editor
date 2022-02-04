@@ -21,6 +21,10 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.3.1
+- Removed the focus from the Export button when the program starts  
+- The Export and Import panel began to move more smoothly
+
 # Version 1.4.3
 - Fixed a typo in the help (H)
 
