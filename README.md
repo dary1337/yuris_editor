@@ -21,6 +21,9 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.2.5
+- Removed the bold stripes on the buttons, when pressed  
+
 # Version 1.4.2.4
 - Added branch: Directory\Background  
 - Now the Enter button is responsible only for the Search (S)  
