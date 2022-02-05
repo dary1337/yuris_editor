@@ -21,6 +21,10 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.3.2
+- Fixed return tweaker Grant Access  
+- Now the Print item is removed for png, jpg and the like
+
 # Version 1.4.3.1
 - Removed the focus from the Export button when the program starts  
 - The Export and Import panel began to move more smoothly
