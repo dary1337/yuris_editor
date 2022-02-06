@@ -21,6 +21,9 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.3.4
+- Fixed the calculation of the weight of files in the temp folder
+
 # Version 1.4.3.3
 - The program no longer closes if some kind of "protection" prevents cleaning  
 - Fixed updating the list if you didn't select  
