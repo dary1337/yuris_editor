@@ -21,8 +21,13 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.3.3
+- The program no longer closes if some kind of "protection" prevents cleaning  
+- Fixed updating the list if you didn't select  
+- Now, when you select an icon you can choose: display only icons or all files in the selection menu
+
 # Version 1.4.3.2
-- Fixed return tweaker Grant Access  
+- Fixed tweak return for Grant Access  
 - Now the Print item is removed for png, jpg and the like
 
 # Version 1.4.3.1
@@ -39,7 +44,7 @@ Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 - Added branch: Directory\Background  
 - Now the Enter button is responsible only for the Search (S)  
 - Now you can't apply tweaks or start a new cleaning until the cleaning is finished  
-- Fixed: Missing icon when adding an element  
+- Fixed Missing icon when adding an element  
 - Now you can roll back the selected icon without restarting the program  
 - The function of changing an existing branch HAS BEEN added.  
 P.S. NOTE THAT IF YOU RENAME A BRANCH, ONLY THE RENAMED BRANCH AND THE KEYS NESTED IN IT WILL BE TRANSFERRED, THE REST WILL BE DELETED!!!
