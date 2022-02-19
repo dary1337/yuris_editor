@@ -21,6 +21,9 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.3.6
+- Now you can edit the Create (New) menu! Note that when adding an item, you need to specify the extension, for example: .mp3  
+
 # Version 1.4.3.5
 - Fixed the discrepancy between the light theme in applications and settings  
 - Fixed the abrupt disappearance of the program when collapsing  
