@@ -22,7 +22,29 @@ Supported arguments:
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
 # Version 1.4.3.6
-- Now you can edit the Create (New) menu! Note that when adding an item, you need to specify the extension, for example: .mp3  
+Now you can edit the Create (New) menu!
+
+How this work:  
+
+- How does the program understand if there is an extension in the create menu:  
+The program checks whether the extension has (as an example, I'll take .txt) inside the ShellNew branch, if yes, then looks to see if there is an ItemName or FileName value, if there are no such values, the item will not appear in the list (Which means it is not in the create menu).  
+
+- When checking the checkbox "Add":  
+In the textbox of the "name", specify the extension, for example .txt (it is possible without a dot), if you just want to add this extension, then click "Add", if you know what you are doing, then specify "paths" in the textbox: @C:\Windows\system32\notepad.exe,-470.  
+That is, if you add an element with an empty field to the "paths" textbox. The program will create an empty FileName value in the branch .txt\ShellNew.
+If you have written something in the "paths" textbox, the program will create the ItemName value in the branch.txt\ShellNew. (This means that if you write something incorrectly, the item will not appear)  
+
+- When you click "Edit":  
+The program checks whether the extension has (as an example, I'll take .txt) the value of ItemName, if yes, then you can see the "paths" in the textbox field: @C:\Windows\system32\notepad.exe,-470  
+If there is no such value, the field will be empty (FileName value)  
+
+- When you click "Remove":  
+Since it's not cool to demolish extensions, the program deletes the values: ItemName and FileName in the extension you selected.  
+
+Export works for extensions that are in the create menu, so I recommend that you Export before you do something  
+
+Keep in mind, all this applies to the branch: HKEY_CLASSES_ROOT.  
+If the items are registered in HKLM\SOFTWARE\CLASSES, they will not be displayed in the program.  
 
 # Version 1.4.3.5
 - Fixed the discrepancy between the light theme in applications and settings  
@@ -35,7 +57,7 @@ Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
 # Version 1.4.3.3
 - The program no longer closes if some kind of "protection" prevents cleaning  
-- fixed updating the list if you didn't select the import file  
+- Fixed updating the list if you didn't select the import file  
 - Now, when you select an icon you can choose: display only icons or all files in the selection menu
 
 # Version 1.4.3.2
