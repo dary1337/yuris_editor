@@ -21,6 +21,13 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.3.7
+- Fixed loss of focus when opening settings  
+- Changed the color of the light theme  
+- Accelerated change of the application theme  
+- Now, when adding an extension, you do not need to write the first dot  
+- Added additional text in the add extension mode  
+
 # Version 1.4.3.6
 Now you can edit the Create (New) menu!
 
