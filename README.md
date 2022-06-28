@@ -21,6 +21,11 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+
+# Version 1.4.3.9
+- Fixed program blurring at scale > 100  
+- Fixed notification appearance at scale > 100  
+
 # Version 1.4.3.8
 - All texts have been transferred to the dictionary. This simplifies the translation in the future. If you want to help translate the program into your language, write to Me about it, the contacts are listed in the profile.  
 - Fixed changes in the highlighted text color when applying a tweak.
