@@ -22,6 +22,12 @@ Supported arguments:
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
 
+# Version 1.4.4.0
+- Now the Settings appear in the center of the application, not the screen  
+- Added the possibility of hot language replacement (Russian, English)  
+- Now the program language is remembered in the registry  
+- Added full Windows scale support  
+
 # Version 1.4.3.9
 - Fixed program blurring at scale > 100  
 - Fixed notification appearance at scale > 100  
