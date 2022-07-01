@@ -23,6 +23,9 @@ Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
 
 # Version 1.4.4.0
+- Now the program does not close if the values in the registry are broken  
+
+# Version 1.4.4.0
 - Now the Settings appear in the center of the application, not the screen  
 - Added the possibility of hot language replacement (Russian, English)  
 - Now the program language is remembered in the registry  
