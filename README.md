@@ -21,6 +21,8 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.4.2
+- Accelerated program launch
 
 # Version 1.4.4.1
 - Now the program does not close if the values in the registry are broken  
