@@ -21,6 +21,11 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.4.3
+- Full support Windows DPI > 150 & 175  
+- The text of the button [...] should be centered  
+- Slightly accelerated code  
+
 # Version 1.4.4.2
 - Accelerated program launch
 
