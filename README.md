@@ -21,6 +21,10 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+
+# Version 1.4.4.4
+- Added text to the Search textbox  
+
 # Version 1.4.4.3
 - Full support Windows DPI > 150 & 175  
 - The text of the button [...] should be centered  
@@ -61,7 +65,7 @@ How this work:
 - How does the program understand if there is an extension in the create menu:  
 The program checks whether the extension has (as an example, I'll take .txt) inside the ShellNew branch, if yes, then looks to see if there is an ItemName or FileName value, if there are no such values, the item will not appear in the list (Which means it is not in the create menu).  
 
-- When checking the checkbox "Add":  
+- When you click "Add":  
 In the textbox of the "name", specify the extension, for example .txt (it is possible without a dot), if you just want to add this extension, then click "Add", if you know what you are doing, then specify "paths" in the textbox: @C:\Windows\system32\notepad.exe,-470.  
 That is, if you add an element with an empty field to the "paths" textbox. The program will create an empty FileName value in the branch .txt\ShellNew.
 If you have written something in the "paths" textbox, the program will create the ItemName value in the branch.txt\ShellNew. (This means that if you write something incorrectly, the item will not appear)  
@@ -82,7 +86,7 @@ If the items are registered in HKLM\SOFTWARE\CLASSES, they will not be displayed
 - Fixed the discrepancy between the light theme in applications and settings  
 - Fixed the abrupt disappearance of the program when collapsing  
 - For a light theme, opacity was increased  
-- Added smooth animation of changing the application theme was added
+- Added smooth animation of changing the application theme
 
 # Version 1.4.3.4
 - Fixed the calculation of the weight of files in the temp folder
