@@ -21,6 +21,8 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.4.5
+- Fixed localization for elements used multiple times
 
 # Version 1.4.4.4
 - Added text to the Search textbox  
