@@ -21,6 +21,10 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.4.7
+- Accelerated cleaning  
+- Redesigned the Microsoft spy verification method
+
 # Version 1.4.4.6
 - The program remembers its name after the update  
 - Fixed the location "Returned" and "Reboot required" for a scale greater than 100  
