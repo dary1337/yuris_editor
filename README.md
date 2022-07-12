@@ -21,6 +21,11 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.4.6
+- The program remembers its name after the update  
+- Fixed the location "Returned" and "Reboot required" for a scale greater than 100  
+- Fixed the size of the Settings window in Developer mode
+
 # Version 1.4.4.5
 - Fixed localization for elements used multiple times
 
