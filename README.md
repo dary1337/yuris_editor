@@ -21,6 +21,11 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.4.8
+- Updating the program now preserves the previous position  
+- Fixed displaying the size of deleted files via the /clean argument  
+- Fixed closing the program when the value in the registry "Lang" is incorrect in the Russian version of the program
+
 # Version 1.4.4.7
 - Accelerated cleaning  
 - Redesigned the Microsoft spy verification method
