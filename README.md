@@ -21,6 +21,11 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.4.9
+- Fixed infinite cleanup when only one checkbox is checked  
+- Accelerated export  
+- Added new cleaning paths  
+
 # Version 1.4.4.8
 - Updating the program now preserves the previous position  
 - Fixed displaying the size of deleted files via the /clean argument  
