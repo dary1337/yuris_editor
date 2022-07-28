@@ -21,6 +21,9 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.5.0
+- Fixed the application of all tweaks when clicking "Apply"  
+
 # Version 1.4.4.9
 - Fixed infinite cleanup when only one checkbox is checked  
 - Accelerated export  
