@@ -21,6 +21,11 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.5.2
+- Fixed the display of -2048 mb, when clearing  
+- If more than 1000 MB has been cleared, the result will be displayed in GB  
+- Added more intuitiveness to rgb change
+
 # Version 1.4.5.1
 - Font sharpness is taken from the system
 
