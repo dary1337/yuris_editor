@@ -21,6 +21,16 @@ Supported arguments:
 
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
+# Version 1.4.5.3
+- Fixed inability to edit registry branches  
+- Now when you change the registry branch, the nested keys are saved  
+- Fixed broken display of extensions  
+- Removed the borders of the buttons, and added rounded edges to them  
+- Now you can export only your own registry branches  
+- Added the ability to display intuitive names of registry branches  
+- Now the program is able to check the relevance of registry branches  
+- Added animation of closing the program when updating  
+
 # Version 1.4.5.2
 - Fixed the display of -2048 mb, when clearing  
 - If more than 1000 MB has been cleared, the result will be displayed in GB  
