@@ -1,3 +1,5 @@
+# [Download](https://github.com/dary1337/yuris_editor/raw/main/yuri's%20editor.exe)
+
 # yuri's editor make edit context menu easy!
 
 Now, you don't need open the registry to edit elements in context menu, just open yuri's editor!
