@@ -21,8 +21,8 @@ Supported arguments:
 Example: "C:\Folder\yuri's editor.exe" /clean (or -clean)
 
 # Screenshots:
-<img src="https://cdn.discordapp.com/attachments/754302458129547344/1138144385360461927/image.png" width=60% height=60%>
-<img src="https://cdn.discordapp.com/attachments/754302458129547344/1138145617382748290/image.png" width=60% height=60%>
+<img src="https://github.com/dary1337/yuris_editor/blob/main/screenshots/1.png" width=60% height=60%>
+<img src="https://github.com/dary1337/yuris_editor/blob/main/screenshots/2.png" width=60% height=60%>
 
 # Version 1.4.5.4  
 - Changed the design of the textboxes
